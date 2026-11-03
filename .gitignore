@@ -145,3 +145,5 @@ day_1/model.png
 day_2/training*/
 day_2/saved_model/
 solutions/saved_model/
+*.keras
+*.pt
